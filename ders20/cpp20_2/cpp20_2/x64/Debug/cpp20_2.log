@@ -1,5 +1,0 @@
-﻿  cpp20_2.cpp
-cpp20_2.obj : error LNK2019: çözümlenmemiş dış sembol "public: __cdecl Mint::Mint(int)" (??0Mint@@QEAA@H@Z) için main işlevinde başvuruldu
-cpp20_2.obj : error LNK2019: çözümlenmemiş dış sembol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Mint const &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEBVMint@@@Z) için main işlevinde başvuruldu
-cpp20_2.obj : error LNK2019: çözümlenmemiş dış sembol "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Mint)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@VMint@@@Z) için main işlevinde başvuruldu
-C:\Users\aliem\source\repos\cpp20_2\x64\Debug\cpp20_2.exe : fatal error LNK1120: 3 çözümlenmemiş dışlar
